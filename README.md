@@ -1,17 +1,41 @@
-# weather_mark
+# Weather Mark 🌤️
 
-A weather mark app
+Aplicación Flutter para consultar el clima en cualquier ubicación marcada en el mapa y mantener un historial de búsquedas.
 
-## Getting Started
+## 🚀 Inicio Rápido
 
-This project is a starting point for a Flutter application.
+### Requisitos
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter 3.32.0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Instalación
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# weather_mark
+1. **Clonar el repositorio**
+
+```bash
+git clone https://github.com/wilrojasdev/weather_mark.git
+cd weather-mark
+```
+
+2. **Crear archivo **``** en la raíz del proyecto con los valores entregados**
+
+```env
+
+```
+
+4. **Instalar dependencias y ejecutar**
+
+```bash
+flutter pub get
+flutter run
+```
+
+## 🛠️ Stack Tecnológico
+
+- **Arquitectura**: Clean Architecture
+- **Base de datos**: SQLite
+- **Autenticación**: Auth0
+- **Mapas**: Google Maps
+- **Almacenamiento seguro**: Flutter Secure Storage
+- **Gestor de estado**: bloc
+
