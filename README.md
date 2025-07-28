@@ -17,11 +17,8 @@ git clone https://github.com/wilrojasdev/weather_mark.git
 cd weather-mark
 ```
 
-2. **Crear archivo **``** en la raíz del proyecto con los valores entregados**
+2. **Crear archivo **`.env`** en la raíz del proyecto con los valores entregados**
 
-```env
-
-```
 
 4. **Instalar dependencias y ejecutar**
 
