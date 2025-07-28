@@ -10,6 +10,10 @@ Puedes descargar la última versión de la aplicación desde la sección de [Rel
 
 ➡️ [**Descargar APK**](https://github.com/wilrojasdev/weather_mark/releases/download/d/weather_mark.apk)
 
+➡️ [**Si Falla el APK, descargar desde Drive**](https://drive.google.com/file/d/1oxCKuLfmMUy99xpDK6pR-OJLLw1RR4Af/view?usp=share_link)
+
+
+
 ### Requisitos
 
 - Flutter 3.32.0
